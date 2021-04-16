@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Godfrey Oyugi
+#### I am Software Developer
+![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hello World, I am Aketch Oyugi, also known as Godfrey. I do bring to life software and websites. I do so using, Java, Python (Django), React, React Native. It is something I enjoy doing and keep adding knowledge on every single day
+
+Skills: Java / Django /REACT / React Native / Vue / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-Hello World, I am Aketch Oyugi, also known as Godfrey. I do bring to life sofwares and websites. I do so using,Jave,  Python (Django), React, React Native. It is something I enjoy doing and keep adding knowledge on every single day. You can check out my twitter handle https://twitter.com/goddyIII.
+
+
+You can check out my twitter handle https://twitter.com/goddyIII.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godfreyJo)](https://github.com/anuraghazra/github-readme-stats)
