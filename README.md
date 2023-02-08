@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Godfrey Oyugi
+### Hi there 👋, my name is Dyzo
 #### I am Software Developer
 
 
