@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Dyzo
-#### I am Software Developer
+### Hi there 👋, my name is Godfrey
+#### I am Web Developer
 
 
 Hello World, I am Aketch Oyugi, also known as Godfrey. I do bring to life software and websites. I do so using, Java, Python (Django), React, React Native. It is something I enjoy doing and keep adding knowledge on every single day
