@@ -2,9 +2,7 @@
 #### I am Web Developer
 
 
-Hello World, I am Aketch Oyugi, also known as Godfrey. I do bring to life software and websites. I do so using, Java, Python (Django), React, React Native. It is something I enjoy doing and keep adding knowledge on every single day
-
-Skills: Java / Django /REACT / React Native / Vue / CSS/
+Greetings, everyone! I'm Aketch Oyugi, but you can call me Godfrey. My passion lies in breathing life into software and crafting engaging websites. I accomplish this through my expertise in Java, Python  Django| Flask, React, and React Native. Every day, I immerse myself in learning, enhancing my skills, and pushing boundaries in this dynamic field. Here's a glimpse of my proficiency: Java, Django, React, React Native, Vue, and CSS.
 
 - 🔭 I’m currently working on this page. 
 
